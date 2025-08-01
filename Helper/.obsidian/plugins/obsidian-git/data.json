@@ -20,7 +20,7 @@
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "E:\\game\\ПОМОГАТОР",
+  "basePath": "E:\\game\\Helper Vault",
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
