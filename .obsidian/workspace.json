@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "6db2621ee4968570",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcd0f84e2becdf72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e69b7b5e5a3de1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧩Структурирование информации.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🧩Структурирование информации"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7142366fac886c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a14f5a97bf0cbaf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61bda9ed3c11b390",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "ad306c9201411759",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "d045b4856b89b82f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68b624c0feeb7a85",
+    "type": "split",
+    "children": [
+      {
+        "id": "be5e776744530bdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16e60884a9ff213a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "9a8a6ff354a7f392",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "458a609967053456",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "620ca144526a7fa2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🧩Структурирование информации.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 🧩Структурирование информации"
+            }
+          },
+          {
+            "id": "545a25e23b579441",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "5e69b7b5e5a3de1c",
+  "lastOpenFiles": [
+    "Управление тегами в Obsidian.md",
+    "🧩Структурирование информации.md",
+    "🧠 6. GPT и работа с контентом.md",
+    "AI-Помощник (Главная).md",
+    "⚙️ 3. Техническая архитектура.md",
+    "🔄Интеграции и автоматизация.md",
+    "🌐Автоматизированный парсинг информации.md",
+    "🧠Запись и хранение мыслей.md",
+    "🔄 5. Автоматизация через Make,n8n.md",
+    "🤖Нейросетевое дополнение идей.md",
+    "📅 8. План развития и задачи.md",
+    "🔧 2. Общие функции и возможности.md",
+    "🔌 4. Интеграции и инструменты.md",
+    "🌐 9. Источники информации и парсинг.md",
+    "🎬Контентные предпочтения.md",
+    "🎯Рекомендательные алгоритмы.md",
+    "🖥 11. UI и интерфейс пользователя.md",
+    "🏷 10. Теги и категории данных.md",
+    "👤 7. Психопрофиль и рекомендации.md",
+    "GPT.md",
+    "Obsidian.md",
+    "Техническая архитектура.md",
+    "Цели и философия проекта.md",
+    "Автоматизация через Make/n8n.md",
+    "Автоматизация через Make",
+    "Добро пожаловать.md",
+    "MC"
+  ]
+}

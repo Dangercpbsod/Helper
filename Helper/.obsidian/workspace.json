@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "6db2621ee4968570",
+    "type": "split",
+    "children": [
+      {
+        "id": "a874f942d9144298",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf01c07f989d5adf",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.38866943866944,
+                  "lineSizeMultiplier": 1.10343035343035,
+                  "collapse-forces": false,
+                  "centerStrength": 0.712058212058212,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.4019828977761064,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7142366fac886c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a14f5a97bf0cbaf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61bda9ed3c11b390",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "ad306c9201411759",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:мысли",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "d045b4856b89b82f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68b624c0feeb7a85",
+    "type": "split",
+    "children": [
+      {
+        "id": "be5e776744530bdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16e60884a9ff213a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для README"
+            }
+          },
+          {
+            "id": "9a8a6ff354a7f392",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "458a609967053456",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "620ca144526a7fa2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "6e2c91d93f24c29c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-git:Open Git source control": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "bf01c07f989d5adf",
+  "lastOpenFiles": [
+    "AI-Помощник (Главная).md",
+    "Управление тегами в Obsidian.md",
+    "🔧 2. Общие функции и возможности.md",
+    "🌐 9. Источники информации и парсинг.md",
+    "🏷 10. Теги и категории данных.md",
+    "👤 7. Психопрофиль и рекомендации.md",
+    "🧠Запись и хранение мыслей.md",
+    "🎯Рекомендательные алгоритмы.md",
+    "🔄 5. Автоматизация через Make,n8n.md",
+    "⚙️ 3. Техническая архитектура.md",
+    "🧩Структурирование информации.md",
+    "🧠 6. GPT и работа с контентом.md",
+    "🤖Нейросетевое дополнение идей.md",
+    "🖥 11. UI и интерфейс пользователя.md",
+    "🔌 4. Интеграции и инструменты.md",
+    "🔄Интеграции и автоматизация.md",
+    "📅 8. План развития и задачи.md",
+    "🎬Контентные предпочтения.md",
+    "🌐Автоматизированный парсинг информации.md",
+    "MC",
+    "Helper 2/Функции сервиса/Рекомендации контента.md",
+    "Helper 2/Функции сервиса/Психологический профиль.md",
+    "Helper 2/Функции сервиса/Интеллектуальное дополнение мыслей.md",
+    "Helper 2/Функции сервиса/Запись мыслей.md",
+    "Helper 2/Функции сервиса/Ассоциативное объединение.md",
+    "Helper 2/Функции сервиса/Автоматическое парсинг-контент.md",
+    "Helper 2/Техническая реализация/Общий план.md",
+    "Helper 2/Функции сервиса",
+    "Helper 2/Техническая реализация",
+    "Helper 2/Тесты и прототипы",
+    "Helper 2/Теги и категории",
+    "Helper 2/Базы знаний",
+    "Helper 2/Автоматизация",
+    "Helper 2",
+    "Новая папка/Базы знаний",
+    "Новая папка/Автоматизация"
+  ]
+}
