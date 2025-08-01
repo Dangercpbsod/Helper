@@ -5,5 +5,8 @@
   "dataview",
   "obsidian-importer",
   "obsidian-textgenerator-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-mind-map",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "obsidian-auto-link-title"
 ]
