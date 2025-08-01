@@ -11,14 +11,10 @@
             "id": "0c2b49617081e958",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "двенадцать.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "двенадцать"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -181,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c2b49617081e958",
+  "active": "61bda9ed3c11b390",
   "lastOpenFiles": [
     "одинадцать.md",
     "двенадцать.md",
