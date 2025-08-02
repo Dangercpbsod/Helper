@@ -155,12 +155,12 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
-            "id": "f2b1a2b791c2198f",
+            "id": "bd1853582eed995e",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 416.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +192,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0c2b49617081e958",
+  "active": "bd1853582eed995e",
   "lastOpenFiles": [
     "🧩Структурирование информации.md",
     "1. README.md",
