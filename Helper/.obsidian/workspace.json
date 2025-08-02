@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a874f942d9144298",
+        "id": "0604261b805505a8",
         "type": "tabs",
         "children": [
           {
-            "id": "0c2b49617081e958",
+            "id": "8e93dd76ce1285ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-Помощник (Главная).md",
+                "file": "2 Инициализация обработки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI-Помощник (Главная)"
+              "title": "2 Инициализация обработки"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -89,24 +89,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c17245da6dde654",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "mindmap",
-              "state": {},
-              "pinned": true,
-              "icon": "dot-network",
-              "title": "Mind Map of AI-Помощник (Главная)"
-            }
-          },
-          {
             "id": "16e60884a9ff213a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "5 Детализация подпунктов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,17 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для README"
+              "title": "Обратные ссылки для 5 Детализация подпунктов"
+            }
+          },
+          {
+            "id": "50411e72223f9df5",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {},
+              "icon": "dot-network",
+              "title": "Mind Map of Помогатор"
             }
           },
           {
@@ -125,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5 Детализация подпунктов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из 5 Детализация подпунктов"
             }
           },
           {
@@ -153,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "file": "2 Инициализация обработки.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура 2 Инициализация обработки"
             }
           },
           {
@@ -172,7 +172,7 @@
             }
           },
           {
-            "id": "f2b1a2b791c2198f",
+            "id": "020512fb0346b2e0",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -181,11 +181,12 @@
               "title": "Markdown-Autocomplete"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,43 +204,42 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0c2b49617081e958",
+  "active": "8e93dd76ce1285ef",
   "lastOpenFiles": [
-    "1. README.md",
-    "AI-Помощник (Главная).md",
-    "👤 7. Психопрофиль и рекомендации.md",
-    "🔧 2. Общие функции и возможности.md",
-    "🧩Структурирование информации.md",
-    "🔌 4. Интеграции и инструменты.md",
-    "🔄Интеграции и автоматизация.md",
-    "🤖Нейросетевое дополнение идей.md",
-    "🌐Автоматизированный парсинг информации.md",
-    "одинадцать.md",
-    "двенадцать.md",
-    "десять.md",
-    "девять.md",
-    "восьмая проверка.md",
-    "шестая проверка.md",
-    "пятая проверка.md",
-    "четвертая провер.md",
-    "Проверка обновлений.md",
-    "еще одна проверка.md",
-    "третья проверка.md",
-    "Obsidian.md",
-    "🧠 6. GPT и работа с контентом.md",
-    "🎯Рекомендательные алгоритмы.md",
-    "🔄 5. Автоматизация через Make,n8n.md",
-    "🖥 11. UI и интерфейс пользователя.md",
-    "📅 8. План развития и задачи.md",
-    "MC",
-    "Helper 2/Функции сервиса",
-    "Helper 2/Техническая реализация",
-    "Helper 2/Тесты и прототипы",
-    "Helper 2/Теги и категории",
-    "Helper 2/Базы знаний",
-    "Helper 2/Автоматизация",
-    "Helper 2",
-    "Новая папка/Базы знаний",
-    "Новая папка/Автоматизация"
+    "1 Создание исходной заметки.md",
+    "8 Промты обработки.md",
+    "4 Разработка приоритетных пунктов.md",
+    "Помогатор.md",
+    "5 Детализация подпунктов.md",
+    "3 Генерация содержания.md",
+    "2 Инициализация обработки.md",
+    "6 Проверка и контроль.md",
+    "7 Теги и связи.md",
+    "git-filter-repo-2.47.0/t/t9394/date-order",
+    "git-filter-repo-2.47.0/t/t9393/simple",
+    "git-filter-repo-2.47.0/t/t9393/lfs",
+    "git-filter-repo-2.47.0/t/t9391/unusual.py",
+    "git-filter-repo-2.47.0/t/t9391/strip-cvs-keywords.py",
+    "git-filter-repo-2.47.0/t/t9391/splice_repos.py",
+    "git-filter-repo-2.47.0/t/t9391/rename-master-to-develop.py",
+    "git-filter-repo-2.47.0/t/t9391/print_progress.py",
+    "git-filter-repo-2.47.0/t/t9391/file_filter.py",
+    "git-filter-repo-2.47.0/t/t9391/erroneous.py",
+    "git-filter-repo-2.47.0/contrib/filter-repo-demos/README.md",
+    "git-filter-repo-2.47.0/Documentation/FAQ.md",
+    "git-filter-repo-2.47.0/Documentation/examples-from-user-filed-issues.md",
+    "git-filter-repo-2.47.0/Documentation/converting-from-filter-branch.md",
+    "git-filter-repo-2.47.0/Documentation/converting-from-bfg-repo-cleaner.md",
+    "git-filter-repo-2.47.0/Documentation/Contributing.md",
+    "git-filter-repo-2.47.0/README.md",
+    "git-filter-repo-2.47.0/INSTALL.md",
+    "Mind Map Помогатора.md",
+    "Определение цели и структуры.md",
+    "Интерфейс и кнопка Обработка.md",
+    "Создание логики обработки.md",
+    "Автоматизация с Obsidian.md",
+    "Создание исходной заметки.md",
+    "Выделение ключевых функций.md",
+    "Визуализация mind map.md"
   ]
 }
