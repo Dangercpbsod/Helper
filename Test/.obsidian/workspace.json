@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 Промты обработки.md",
+                "file": "5 Детализация подпунктов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 Промты обработки"
+              "title": "5 Детализация подпунктов"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 Промты обработки.md",
+                "file": "5 Детализация подпунктов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 8 Промты обработки"
+              "title": "Обратные ссылки для 5 Детализация подпунктов"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 Промты обработки.md",
+                "file": "5 Детализация подпунктов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 8 Промты обработки"
+              "title": "Исходящие ссылки из 5 Детализация подпунктов"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 Промты обработки.md",
+                "file": "5 Детализация подпунктов.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 8 Промты обработки"
+              "title": "Структура 5 Детализация подпунктов"
             }
           },
           {
@@ -172,7 +172,7 @@
             }
           },
           {
-            "id": "bd1853582eed995e",
+            "id": "020512fb0346b2e0",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -186,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,17 +204,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "620ca144526a7fa2",
+  "active": "61bda9ed3c11b390",
   "lastOpenFiles": [
-    "Помогатор.md",
-    "1 Создание исходной заметки.md",
-    "4 Разработка приоритетных пунктов.md",
-    "6 Проверка и контроль.md",
-    "8 Промты обработки.md",
-    "7 Теги и связи.md",
-    "5 Детализация подпунктов.md",
-    "2 Инициализация обработки.md",
     "3 Генерация содержания.md",
+    "1 Создание исходной заметки.md",
+    "Помогатор.md",
+    "8 Промты обработки.md",
+    "2 Инициализация обработки.md",
+    "4 Разработка приоритетных пунктов.md",
+    "5 Детализация подпунктов.md",
+    "6 Проверка и контроль.md",
+    "7 Теги и связи.md",
     "git-filter-repo-2.47.0/t/t9394/date-order",
     "git-filter-repo-2.47.0/t/t9393/simple",
     "git-filter-repo-2.47.0/t/t9393/lfs",
