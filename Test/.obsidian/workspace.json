@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Помогатор.md",
+                "file": "8 Промты обработки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Помогатор"
+              "title": "8 Промты обработки"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Помогатор.md",
+                "file": "8 Промты обработки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Помогатор"
+              "title": "Обратные ссылки для 8 Промты обработки"
             }
           },
           {
@@ -123,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "8 Промты обработки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из 8 Промты обработки"
             }
           },
           {
@@ -151,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "8 Промты обработки.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура 8 Промты обработки"
             }
           },
           {
@@ -180,11 +182,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,8 +204,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6e2c91d93f24c29c",
+  "active": "620ca144526a7fa2",
   "lastOpenFiles": [
+    "Помогатор.md",
+    "1 Создание исходной заметки.md",
+    "4 Разработка приоритетных пунктов.md",
+    "6 Проверка и контроль.md",
+    "8 Промты обработки.md",
+    "7 Теги и связи.md",
+    "5 Детализация подпунктов.md",
+    "2 Инициализация обработки.md",
+    "3 Генерация содержания.md",
     "git-filter-repo-2.47.0/t/t9394/date-order",
     "git-filter-repo-2.47.0/t/t9393/simple",
     "git-filter-repo-2.47.0/t/t9393/lfs",
@@ -214,7 +225,6 @@
     "git-filter-repo-2.47.0/t/t9391/print_progress.py",
     "git-filter-repo-2.47.0/t/t9391/file_filter.py",
     "git-filter-repo-2.47.0/t/t9391/erroneous.py",
-    "git-filter-repo-2.47.0/t/t9391/emoji-repo",
     "git-filter-repo-2.47.0/contrib/filter-repo-demos/README.md",
     "git-filter-repo-2.47.0/Documentation/FAQ.md",
     "git-filter-repo-2.47.0/Documentation/examples-from-user-filed-issues.md",
@@ -223,20 +233,11 @@
     "git-filter-repo-2.47.0/Documentation/Contributing.md",
     "git-filter-repo-2.47.0/README.md",
     "git-filter-repo-2.47.0/INSTALL.md",
-    "3 Генерация содержания.md",
-    "1 Создание исходной заметки.md",
-    "2 Инициализация обработки.md",
-    "8 Промты обработки.md",
-    "Помогатор.md",
     "Mind Map Помогатора.md",
     "Определение цели и структуры.md",
     "Интерфейс и кнопка Обработка.md",
-    "6 Проверка и контроль.md",
     "Создание логики обработки.md",
     "Автоматизация с Obsidian.md",
-    "7 Теги и связи.md",
-    "5 Детализация подпунктов.md",
-    "4 Разработка приоритетных пунктов.md",
     "Создание исходной заметки.md",
     "Выделение ключевых функций.md",
     "Визуализация mind map.md"
