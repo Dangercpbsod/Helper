@@ -1,4 +1,4 @@
-
+[[[mind-gardener-pro](https://preview--mind-gardener-pro.lovable.app/)]]
 
 **Описание**: Центральный узел. Сюда будут вести ссылки из всех подразделов.  
 **Содержание**:
