@@ -1,0 +1,111 @@
+{
+  "version": "0.7.52",
+  "endpoint": "https://api.openai.com/v1",
+  "models": [],
+  "api_key": "",
+  "encrypt_keys": false,
+  "selectedProvider": "OpenAI Chat (Langchain)",
+  "max_tokens": 1000,
+  "temperature": 0.7,
+  "frequency_penalty": 0.5,
+  "showStatusBar": true,
+  "outputToBlockQuote": false,
+  "freeCursorOnStreaming": false,
+  "allowJavascriptRun": false,
+  "experiment": false,
+  "promptsPath": "textgenerator/templates",
+  "textGenPath": "textgenerator/",
+  "prefix": "\n\n",
+  "tgSelectionLimiter": "^\\*\\*\\*",
+  "stream": true,
+  "context": {
+    "customInstructEnabled": true,
+    "includeClipboard": true,
+    "customInstruct": "Ты — помощник по ведению базы знаний в Obsidian.  \nПроанализируй текст заметки и:  \n1. Выдели из него 3–7 релевантных тегов в формате #тег.  \n2. Предложи 2–4 возможные внутренние связи с другими заметками, используя формат [[название заметки]] (на основе семантики и ключевых слов).  \n3. Сформулируй 1–2 идеи для расширения или уточнения темы.\n\nТекст заметки:\n{{selection}}\n``` |\n\n| Output Template |  \n```markdown\n## 🏷️ Теги  \n{{tg.tags}}\n\n## 🔗 Возможные связи  \n{{tg.links}}\n\n## 💡 Идеи  \n{{tg.ideas}}\n``` |\n\n",
+    "contextTemplate": "Title: {{title}}\n\t\nStarred Blocks: {{starredBlocks}}\n\t  \n{{tg_selection}}"
+  },
+  "requestTimeout": 300000,
+  "options": {
+    "generate-text": true,
+    "generate-text-with-metadata": true,
+    "insert-generated-text-From-template": true,
+    "create-generated-text-From-template": false,
+    "search-results-batch-generate-from-template": true,
+    "insert-text-From-template": false,
+    "create-text-From-template": false,
+    "show-modal-From-template": true,
+    "open-template-as-tool": true,
+    "open-playground": true,
+    "set_max_tokens": true,
+    "set-llm": true,
+    "set-model": true,
+    "packageManager": true,
+    "create-template": false,
+    "get-title": true,
+    "generated-text-to-clipboard-From-template": false,
+    "calculate-tokens": true,
+    "calculate-tokens-for-template": true,
+    "text-extractor-tool": true,
+    "stop-stream": true,
+    "custom-instruct": true,
+    "generate-in-right-click-menu": false,
+    "batch-generate-in-right-click-files-menu": true,
+    "tg-block-processor": true,
+    "reload": true,
+    "disable-ribbon-icons": false,
+    "overlay-toolbar": false,
+    "log-slowest-operations": false
+  },
+  "advancedOptions": {
+    "generateTitleInstructEnabled": false,
+    "generateTitleInstruct": "Generate a title for the current document (do not use * \" \\ / < > : | ? .):\n{{substring content 0 255}}",
+    "includeAttachmentsInRequest": false
+  },
+  "autoSuggestOptions": {
+    "customInstructEnabled": true,
+    "customInstruct": "Continue the follwing text:\nTitle: {{title}}\n{{query}}",
+    "systemPrompt": "",
+    "isEnabled": false,
+    "allowInNewLine": false,
+    "delay": 300,
+    "numberOfSuggestions": 5,
+    "triggerPhrase": "  ",
+    "stop": ".",
+    "showStatus": true,
+    "customProvider": false,
+    "inlineSuggestions": false,
+    "overrideTrigger": " "
+  },
+  "slashSuggestOptions": {
+    "isEnabled": false,
+    "triggerPhrase": "/"
+  },
+  "extractorsOptions": {
+    "PDFExtractor": true,
+    "WebPageExtractor": true,
+    "YoutubeExtractor": true,
+    "AudioExtractor": false,
+    "ImageExtractorEmbded": true,
+    "ImageExtractor": true
+  },
+  "displayErrorInEditor": false,
+  "LLMProviderProfiles": {},
+  "LLMProviderOptions": {
+    "whisper": {
+      "base_path": "https://api.openai.com/v1",
+      "model": "whisper-1",
+      "api_key": "",
+      "api_version": ""
+    },
+    "OpenAI Chat (Langchain)": {
+      "basePath": "https://api.openai.com/v1",
+      "api_key": "",
+      "model": "gpt-4"
+    }
+  },
+  "LLMProviderOptionsKeysHashed": {
+    "whisper.api_key": "__@#key_prefix#@__",
+    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-proj-eTrrBINfnG2GBwE9Exz6NuAFGzINy0XSgyBOTfUe1mAVsw_BD8nqsL9VQeP2GZdIIdUc-EttZHT3BlbkFJBWeVaW3NnfUEhy21zWSKL3662UW89rv2FCRT4wyegiASJGkCV6eR7lq6o95Shko8StIftQilMA"
+  },
+  "api_key_encrypted": "__@#key_prefix#@__sk-proj-eTrrBINfnG2GBwE9Exz6NuAFGzINy0XSgyBOTfUe1mAVsw_BD8nqsL9VQeP2GZdIIdUc-EttZHT3BlbkFJBWeVaW3NnfUEhy21zWSKL3662UW89rv2FCRT4wyegiASJGkCV6eR7lq6o95Shko8StIftQilMA"
+}
