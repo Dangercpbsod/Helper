@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a874f942d9144298",
+        "id": "bc0849988feda803",
         "type": "tabs",
         "children": [
           {
-            "id": "0c2b49617081e958",
+            "id": "50411e72223f9df5",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "mindmap",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "icon": "dot-network",
+              "title": "Mind Map of Поиск"
             }
           }
         ]
@@ -70,7 +70,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Mind Map.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Mind Map"
             }
           },
           {
@@ -166,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,8 +190,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0c2b49617081e958",
+  "active": "ad306c9201411759",
   "lastOpenFiles": [
+    "Mind Map.md",
     "1. README.md",
     "Добро пожаловать.md",
     "AI-Помощник (Главная).md",
@@ -215,7 +218,6 @@
     "🧠 6. GPT и работа с контентом.md",
     "🎯Рекомендательные алгоритмы.md",
     "🔄 5. Автоматизация через Make,n8n.md",
-    "🖥 11. UI и интерфейс пользователя.md",
     "MC",
     "Helper 2/Функции сервиса",
     "Helper 2/Техническая реализация",
