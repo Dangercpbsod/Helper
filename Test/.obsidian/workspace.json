@@ -11,10 +11,14 @@
             "id": "d4700d2be65e926a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Помогатор.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Помогатор"
             }
           }
         ]
@@ -180,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 590.5
+    "width": 484.5
   },
   "left-ribbon": {
     "hiddenItems": {
