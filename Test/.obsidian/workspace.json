@@ -14,7 +14,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Поиск"
+              "title": "Mind Map of Source Control"
             }
           }
         ]
@@ -138,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mind Map.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Mind Map"
+              "title": "Структура"
             }
           },
           {
@@ -190,7 +189,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ad306c9201411759",
+  "active": "6e2c91d93f24c29c",
   "lastOpenFiles": [
     "Mind Map.md",
     "1. README.md",
