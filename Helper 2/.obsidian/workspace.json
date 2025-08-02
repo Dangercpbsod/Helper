@@ -11,10 +11,14 @@
             "id": "0c2b49617081e958",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "README"
             }
           }
         ]
@@ -177,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e2c91d93f24c29c",
+  "active": "0c2b49617081e958",
   "lastOpenFiles": [
     "еще одна проверка бля.md",
     "README.md",

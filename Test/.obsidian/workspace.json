@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Детализация подпунктов.md",
+                "file": "2 Инициализация обработки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 Детализация подпунктов"
+              "title": "2 Инициализация обработки"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Детализация подпунктов.md",
+                "file": "2 Инициализация обработки.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 5 Детализация подпунктов"
+              "title": "Структура 2 Инициализация обработки"
             }
           },
           {
@@ -204,15 +204,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "61bda9ed3c11b390",
+  "active": "8e93dd76ce1285ef",
   "lastOpenFiles": [
-    "3 Генерация содержания.md",
     "1 Создание исходной заметки.md",
-    "Помогатор.md",
     "8 Промты обработки.md",
-    "2 Инициализация обработки.md",
     "4 Разработка приоритетных пунктов.md",
+    "Помогатор.md",
     "5 Детализация подпунктов.md",
+    "3 Генерация содержания.md",
+    "2 Инициализация обработки.md",
     "6 Проверка и контроль.md",
     "7 Теги и связи.md",
     "git-filter-repo-2.47.0/t/t9394/date-order",
