@@ -1,0 +1,56 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "NoXtu26a2biSneawpe7UX",
+      "name": "1",
+      "value": "#ff0000"
+    },
+    {
+      "id": "PmLGXyenfdcyYIBENfGQT",
+      "name": "2",
+      "value": "#ffdd00"
+    },
+    {
+      "id": "n3msNVz_rnZJLhLVJnEte",
+      "name": "3",
+      "value": "#59ff00"
+    },
+    {
+      "id": "zidzsGLez16eGazpdbyMX",
+      "name": "4",
+      "value": "#004cff"
+    },
+    {
+      "id": "qlhow5LtZo9MQHS7whgXw",
+      "name": "5",
+      "value": "#3700ff"
+    },
+    {
+      "id": "p5DPKwCoQc9Xky3PSAV4B",
+      "name": "6",
+      "value": "#ee00ff"
+    },
+    {
+      "id": "eWMoX-RrWdYJx1bsQNT2K",
+      "name": "0",
+      "value": "#ffffff"
+    },
+    {
+      "id": "q0GFKq90_3SPbzAPGhN77",
+      "name": "7",
+      "value": "#000000"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Mind Map Помогатора.md",
+      "color": "q0GFKq90_3SPbzAPGhN77"
+    },
+    {
+      "path": "Помогатор.md",
+      "color": "NoXtu26a2biSneawpe7UX"
+    }
+  ]
+}
