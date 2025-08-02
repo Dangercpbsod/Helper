@@ -1,4 +1,3 @@
-# Автоматизация с Obsidian
 
 ## Подзадачи
 - [[Работа с Templater и Buttons]]
