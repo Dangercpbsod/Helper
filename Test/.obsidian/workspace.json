@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bc0849988feda803",
+        "id": "0604261b805505a8",
         "type": "tabs",
         "children": [
           {
-            "id": "d4700d2be65e926a",
+            "id": "8e93dd76ce1285ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -114,7 +114,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Нет файла"
+              "title": "Mind Map of Помогатор"
             }
           },
           {
@@ -180,11 +180,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 484.5
+    "width": 246.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,8 +202,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d4700d2be65e926a",
+  "active": "8e93dd76ce1285ef",
   "lastOpenFiles": [
+    "Mind Map Помогатора.md",
     "Помогатор.md",
     "1 Создание исходной заметки.md",
     "Определение цели и структуры.md",
@@ -212,7 +213,6 @@
     "Создание логики обработки.md",
     "Автоматизация с Obsidian.md",
     "7 Теги и связи.md",
-    "Mind Map Помогатора.md",
     "8 Промты обработки.md",
     "5 Детализация подпунктов.md",
     "4 Разработка приоритетных пунктов.md",
