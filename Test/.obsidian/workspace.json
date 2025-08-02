@@ -89,46 +89,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16e60884a9ff213a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "5 Детализация подпунктов.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Обратные ссылки для 5 Детализация подпунктов"
-            }
-          },
-          {
             "id": "50411e72223f9df5",
             "type": "leaf",
             "state": {
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Помогатор"
-            }
-          },
-          {
-            "id": "9a8a6ff354a7f392",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "5 Детализация подпунктов.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из 5 Детализация подпунктов"
+              "title": "Mind Map of 2 Инициализация обработки"
             }
           },
           {
@@ -180,13 +147,46 @@
               "icon": "viewIcon",
               "title": "Markdown-Autocomplete"
             }
+          },
+          {
+            "id": "16e60884a9ff213a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 Инициализация обработки.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 2 Инициализация обработки"
+            }
+          },
+          {
+            "id": "9a8a6ff354a7f392",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 Инициализация обработки.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 2 Инициализация обработки"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 443.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +204,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "8e93dd76ce1285ef",
+  "active": "6e2c91d93f24c29c",
   "lastOpenFiles": [
     "1 Создание исходной заметки.md",
     "8 Промты обработки.md",

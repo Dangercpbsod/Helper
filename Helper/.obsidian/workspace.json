@@ -181,7 +181,8 @@
               "title": "Исходящие ссылки из 11. 🖥 UI и интерфейс пользователя"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -203,7 +204,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "8e93dd76ce1285ef",
+  "active": "6e2c91d93f24c29c",
   "lastOpenFiles": [
     "2. 🔧 Общие функции и возможности.md",
     "5. 🔄 Автоматизация через Make,n8n.md",
