@@ -1,0 +1,12 @@
+{
+  "apiKey": "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",
+  "apiUrl": "https://api.openai.com/v1/audio/transcriptions",
+  "model": "whisper-1",
+  "prompt": "",
+  "language": "ru",
+  "saveAudioFile": true,
+  "saveAudioFilePath": "",
+  "debugMode": false,
+  "createNewFileAfterRecording": true,
+  "createNewFileAfterRecordingPath": ""
+}
