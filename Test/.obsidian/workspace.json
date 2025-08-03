@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Помогатор.md",
+                "file": "7 Теги и связи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Помогатор"
+              "title": "7 Теги и связи"
             }
           }
         ]
@@ -95,7 +95,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of 2 Инициализация обработки"
+              "title": "Mind Map of 7 Теги и связи"
             }
           },
           {
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Помогатор.md",
+                "file": "7 Теги и связи.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Помогатор"
+              "title": "Структура 7 Теги и связи"
             }
           },
           {
@@ -181,12 +181,11 @@
               "title": "Исходящие ссылки из 5 Детализация подпунктов"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 420.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,17 +203,19 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "620ca144526a7fa2",
+  "active": "8e93dd76ce1285ef",
   "lastOpenFiles": [
+    "6 Проверка и контроль.md",
     "5 Детализация подпунктов.md",
-    "3 Генерация содержания.md",
-    "2 Инициализация обработки.md",
-    "1 Создание исходной заметки.md",
     "8 Промты обработки.md",
     "4 Разработка приоритетных пунктов.md",
+    "3 Генерация содержания.md",
+    "2 Инициализация обработки.md",
     "Помогатор.md",
-    "6 Проверка и контроль.md",
+    "1 Создание исходной заметки.md",
+    "gpt_initiate.md",
     "7 Теги и связи.md",
+    "66.jpg",
     "git-filter-repo-2.47.0/t/t9394/date-order",
     "git-filter-repo-2.47.0/t/t9393/simple",
     "git-filter-repo-2.47.0/t/t9393/lfs",
