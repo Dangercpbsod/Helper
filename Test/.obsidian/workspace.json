@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Инициализация обработки.md",
+                "file": "5 Детализация подпунктов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Инициализация обработки"
+              "title": "5 Детализация подпунктов"
             }
           }
         ]
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Инициализация обработки.md",
+                "file": "5 Детализация подпунктов.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 2 Инициализация обработки"
+              "title": "Структура 5 Детализация подпунктов"
             }
           },
           {
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Инициализация обработки.md",
+                "file": "5 Детализация подпунктов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 2 Инициализация обработки"
+              "title": "Обратные ссылки для 5 Детализация подпунктов"
             }
           },
           {
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Инициализация обработки.md",
+                "file": "5 Детализация подпунктов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 2 Инициализация обработки"
+              "title": "Исходящие ссылки из 5 Детализация подпунктов"
             }
           }
         ],
@@ -204,15 +204,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6e2c91d93f24c29c",
+  "active": "8e93dd76ce1285ef",
   "lastOpenFiles": [
+    "3 Генерация содержания.md",
+    "2 Инициализация обработки.md",
     "1 Создание исходной заметки.md",
     "8 Промты обработки.md",
     "4 Разработка приоритетных пунктов.md",
     "Помогатор.md",
     "5 Детализация подпунктов.md",
-    "3 Генерация содержания.md",
-    "2 Инициализация обработки.md",
     "6 Проверка и контроль.md",
     "7 Теги и связи.md",
     "git-filter-repo-2.47.0/t/t9394/date-order",
