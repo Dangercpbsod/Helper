@@ -1,4 +1,3 @@
-# 🏷 Категории для Obsidian
 
 - #ai-helper
 - #obsidian-gpt
