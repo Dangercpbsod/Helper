@@ -105,7 +105,7 @@
   },
   "LLMProviderOptionsKeysHashed": {
     "whisper.api_key": "__@#key_prefix#@__",
-    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-proj-eTrrBINfnG2GBwE9Exz6NuAFGzINy0XSgyBOTfUe1mAVsw_BD8nqsL9VQeP2GZdIIdUc-EttZHT3BlbkFJBWeVaW3NnfUEhy21zWSKL3662UW89rv2FCRT4wyegiASJGkCV6eR7lq6o95Shko8StIftQilMA"
+    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-proj-RIuBYhBGbz7jJfPn5BXEu-crU6jrv-nC6QzTUrun0XrGsQNj2LR6NoS0bLeBlEJOIizT5X2FGET3BlbkFJ1bRsPjUI9AoEXXtt-6KBRrV16If0HqXKEIj9zbJizylt1efYiBTLBo27znB1v8zA45O-mwJFMA"
   },
-  "api_key_encrypted": "__@#key_prefix#@__sk-proj-eTrrBINfnG2GBwE9Exz6NuAFGzINy0XSgyBOTfUe1mAVsw_BD8nqsL9VQeP2GZdIIdUc-EttZHT3BlbkFJBWeVaW3NnfUEhy21zWSKL3662UW89rv2FCRT4wyegiASJGkCV6eR7lq6o95Shko8StIftQilMA"
+  "api_key_encrypted": "__@#key_prefix#@__sk-proj-RIuBYhBGbz7jJfPn5BXEu-crU6jrv-nC6QzTUrun0XrGsQNj2LR6NoS0bLeBlEJOIizT5X2FGET3BlbkFJ1bRsPjUI9AoEXXtt-6KBRrV16If0HqXKEIj9zbJizylt1efYiBTLBo27znB1v8zA45O-mwJFMA"
 }

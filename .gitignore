@@ -1,2 +1,4 @@
 "token.txt" 
 .obsidian
+.obsidian/plugins/whisper/data.json
+.obsidian/plugins/text-generator-plugin/settings.json
