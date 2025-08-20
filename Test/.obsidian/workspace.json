@@ -11,14 +11,12 @@
             "id": "8e93dd76ce1285ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "7 Теги и связи.md",
-                "mode": "source",
-                "source": false
+                "file": "66.jpg"
               },
-              "icon": "lucide-file",
-              "title": "7 Теги и связи"
+              "icon": "lucide-image",
+              "title": "66"
             }
           }
         ]
@@ -95,7 +93,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of 7 Теги и связи"
+              "title": "Mind Map of 66"
             }
           },
           {
@@ -205,6 +203,7 @@
   },
   "active": "8e93dd76ce1285ef",
   "lastOpenFiles": [
+    "7 Теги и связи.md",
     "6 Проверка и контроль.md",
     "5 Детализация подпунктов.md",
     "8 Промты обработки.md",
@@ -214,7 +213,6 @@
     "Помогатор.md",
     "1 Создание исходной заметки.md",
     "gpt_initiate.md",
-    "7 Теги и связи.md",
     "66.jpg",
     "git-filter-repo-2.47.0/t/t9394/date-order",
     "git-filter-repo-2.47.0/t/t9393/simple",
